@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherSearch</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="enter_a_location">Enter A location</string>
+</resources>
